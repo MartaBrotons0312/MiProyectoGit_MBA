@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiProyectoGit_MBA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63152db4ba6303f2651acf0ad5f2af05f61360ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8d7d3f2292832c15740df964aaf0a482c56e868")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiProyectoGit_MBA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiProyectoGit_MBA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
